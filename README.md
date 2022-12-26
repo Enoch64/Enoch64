@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on an mutli-class image classifier with scikit learn
 - 🌱 I’m currently learning python,C,C++ and scikit learn
 - 👯 I’m looking to collaborate on any beginner machine learning, backend development and database projects
-- 🤔 I’m looking for help with tensorflow and pytorch
+- 🤔 I’m looking for help with tensorflow, pytorch and working with APIs
 
 
 
