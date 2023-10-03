@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a spotify recommendation system 
 - 🌱 I’m currently learning MySQL, R and Java 
 - 👯 I’m looking to collaborate on any beginner machine learning, backend development and database projects
-- 🤔 I’m looking for help with tensorflow, pytorch, Keanos, SQL and working with APIs
+- 🤔 I’m looking for help with tensorflow, pytorch, Keanos and working with APIs
 
 
 
