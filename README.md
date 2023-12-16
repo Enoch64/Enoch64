@@ -1,11 +1,10 @@
 ### Hello! I'm Enoch and welcome to my github 👋
-#### I'm currently a second year computer science student. I'm eager to learn all the core concepts and new technologies of this field
+#### I'm currently a third-year computer science student. I'm eager to learn all the core concepts and new technologies in this field
 
 
-- 🔭 I’m currently working on a spotify recommendation system 
-- 🌱 I’m currently learning MySQL, R and Java 
+- 🔭 I’m currently working on a Spotify song popularity predictor
+- 🌱 I’m currently learning frameworks like React.js, TensorFlow, Pytorch and languages like javascript
 - 👯 I’m looking to collaborate on any beginner machine learning, backend development and database projects
-- 🤔 I’m looking for help with tensorflow, pytorch, Keanos and working with APIs
-
+- 🤔 I’m seeking help with javascript web frameworks like React.js and Next.js
 
 
