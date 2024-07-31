@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on an Image caption generator with Python, Pytorch and AWS services like Lambda and Sagemaker
-- 🌱 I’m currently learning frameworks like Angular, TensorFlow, Pytorch and languages like Javascript
-- 👯 I’m looking to collaborate on any backend/fullstack development, database and machine learning projects
+- 🌱 I’m currently exploring frameworks like Angular, Pytorch, SpringBoot and languages like Javascript and Java
+- 👯 I’m looking to collaborate on any backend/full-stack development, database and machine learning projects
 
 
